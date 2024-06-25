@@ -7,7 +7,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMedi
 from youtubesearchpython.__future__ import VideosSearch
 
 import config
-from ANNIEMUSIC import app
+from EVEMUSIC import app
 from ANNIEMUSIC.misc import _boot_
 from ANNIEMUSIC.plugins.sudo.sudoers import sudoers_list
 from ANNIEMUSIC.utils import bot_sys_stats
