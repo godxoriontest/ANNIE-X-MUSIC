@@ -1,4 +1,4 @@
-name: ANNIE-X-MUSIC
+name: EXE-X-MUSIC
 type: app
 docker:
   file: Dockerfile
